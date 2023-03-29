@@ -1,2 +1,2 @@
-# React TODO List
-Live Site: https://glistening-frangipane-4890e0.netlify.app/
+# React TODO List App in TypeScript
+Live Site: https://fantastic-maamoul-9c77dc.netlify.app/
